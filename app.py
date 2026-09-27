@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Minha pagina com joguinhos", page_icon="🚀", layout="centered"
+    page_title="Minha pagina com jogos", page_icon="🚀", layout="centered"
 )
 st.write(
     "Bem-vindo ao meu site! Use os botões abaixo para navegar entre os meus"
